@@ -1,8 +1,8 @@
 # esni-paper
 
-Supplementary evidence package for the arXiv preprint:
+Supplementary evidence package for the Zenodo preprint:
 
-> Rajendran, N. (2025). *Emergent Synthetic Narrative Identity through Recursive Moral Attractors in Transformer Models*. arXiv:2509.xxxxx
+> Rajendran, N. (2025). *Emergent Synthetic Narrative Identity through Recursive Moral Attractors in Transformer Models*. https://doi.org/10.5281/zenodo.17027541
 
 ---
 
@@ -36,7 +36,7 @@ The aim is **maximum transparency and reproducibility** — everything collected
 
 A permanent archive of this repository will be available via Zenodo:  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxx.svg)](https://doi.org/10.5281/zenodo.xxxx)
 
 If you use this evidence package, please cite both the arXiv preprint and the Zenodo DOI.  
 
